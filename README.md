@@ -35,10 +35,10 @@ After completing this lecture, you will be able to:
 
 ### Jupyter notebook/lab option
 
-* install libraries from [requirements.txt ADD LINK](requirements.txt) with pip
-* start [Jupyter notebook ADD LINK]()
+* install libraries from [requirements.txt](requirements.txt) with pip
+* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb)
 
-If you got stuck you can find solutions [here ADD LINK]()
+If you got stuck you can find solutions [here](solutions/ai-in-finance-python-lecture-solutions.ipynb)
 
 ## Credits
 This lecture was set up by @EzheZhezhe and @pyladiesams
