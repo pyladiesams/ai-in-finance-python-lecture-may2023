@@ -1,6 +1,6 @@
 # Python Lecture: AI in Finance
 ### Level: Beginner
-**Instructor:** Alyona Galyeva
+**Instructor:** [Alyona Galyeva](https://www.linkedin.com/in/alyonagalyeva/)
 
 In this lecture we will explore how AI can be used in Finance, how to create a simple AI chatbot, what are the consequences of using such an AI chatbot and other AI models in real life.
 
