@@ -1,6 +1,6 @@
 # Python Lecture: AI in Finance
 ### Level: Beginner
-**Instructor:** [Alyona Galyeva](https://www.linkedin.com/in/alyonagalyeva/)
+**Instructor:** [Una Galyeva](https://www.linkedin.com/in/unagalyeva/)
 
 In this lecture we will explore how AI can be used in Finance, how to create a simple AI chatbot, what are the consequences of using such an AI chatbot and other AI models in real life.
 
@@ -14,7 +14,7 @@ After completing this lecture, you will be able to:
 
 * explain how AI can be used in Finance
 * create a simple AI chatbot in Python
-* combat consequences of using such an AI chatbot and other AI models in real life
+* combat the consequences of using such an AI chatbot and other AI models in real life
 
 
 ---
@@ -23,12 +23,12 @@ After completing this lecture, you will be able to:
 ***Prerequisites***:
 * Laptop
 * Access to the internet
-* Google account (to execute code in a Google collab notebook)
+* Google account (to execute code in a Google Colab notebook)
 * Basic Python knowledge
 
 ## Usage
 
-### Google collab notebook option
+### Google Colab notebook option
 
 * Start [Collab notebook](https://colab.research.google.com/drive/1nvDxrd66R_YU4TQu1oZnvSaygG2QC3hA?usp=sharing)
 
@@ -37,9 +37,9 @@ After completing this lecture, you will be able to:
 ### Jupyter notebook/lab option
 
 * install libraries from [requirements.txt](requirements.txt) with pip
-* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb) and skip the step with google colab driver mount, update PATH to your .env file
+* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb) and skip the step with Google Colab driver mount, update PATH to your .env file
 
-If you got stuck you can find solutions [here](solutions/ai-in-finance-python-lecture-solutions.ipynb)
+If you got stuck, you can find solutions [here](solutions/ai-in-finance-python-lecture-solutions.ipynb)
 
 ## Credits
-This lecture was set up by @EzheZhezhe and @pyladiesams
+This lecture was set up by @una-gal and @pyladiesams
